@@ -1,4 +1,5 @@
 lexer grammar alguma;
+//Gabriel de Jesus Dantas - 773412
 //Definida todas as palavras chave
 KeyWord: 'algoritmo' | 'declare' | 'literal' | 'inteiro' | 'real' | 'logico' | 'ou' | 'nao' | 'leia' | 'se' | 'fim_se' 
 | 'senao' | 'entao' | 'falso' | 'verdadeiro' | 'caso' | 'e' | 'fim_caso' | 'escreva' | 'seja' | 'para' | 'ate' | 'faca' 
