@@ -8,8 +8,8 @@ import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.Token;
 /**
- * Hello world!
- *
+ * Gabriel de Jesus Dantas 773412
+ * BCC
  */
 public class App 
 {
